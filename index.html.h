@@ -36,7 +36,7 @@
 <body class="bg-gray-100 flex items-center justify-center min-h-screen p-4">
 
     <div id="quiz-container" class="card w-full max-w-lg text-center">
-        <h1 class="text-3xl font-bold text-gray-800 mb-2">Scientific Notation Practice</h1>
+        <h1 class="text-3xl font-bold text-gray-800 mb-2">Powers of 10 Quiz</h1>
         <p class="text-gray-600 mb-6">Express the following value.</p>
 
         <div id="question-area">
